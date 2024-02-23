@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SULNe8cMXZ4y+f+nDZdr/z1Vl1xEdHLLc9c6e5+hiWUpEY6Zs5U+BUtYrs8zOaC4u2qeWdCn71W5qzfZrWDanQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\SysProg Domaci\\14 zad repository\\SysProg---14.-Zadatak\\II projekat (Task+Async) - 18077\\WebImgToGifAsync\\WebImgToGifAsync\\WebImgToGifAsync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

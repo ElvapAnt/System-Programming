@@ -1,0 +1,34 @@
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.exe
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.deps.json
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.runtimeconfig.json
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.pdb
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\refint\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.pdb
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\II projekat - Task + Async\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\ref\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.exe
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.deps.json
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.runtimeconfig.json
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\WebImgToGifAsync.pdb
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\refint\WebImgToGifAsync.dll
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.pdb
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\WebImgToGifAsync.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\SysProg Domaci\14 zad repository\SysProg---14.-Zadatak\II projekat (Task+Async) - 18077\WebImgToGifAsync\WebImgToGifAsync\obj\Debug\net7.0\ref\WebImgToGifAsync.dll

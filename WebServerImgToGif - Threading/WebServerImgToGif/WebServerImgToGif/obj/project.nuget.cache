@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EaMDCEW0EGbouUHP0sc7lA4MM6LA+bU/xMN6AsLpj0UYVe8xOF+7WhcW+GVOUsbsGM+JlP+pOK2IEChDRDB7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\WebServerImgToGif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zoki\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

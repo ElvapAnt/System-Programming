@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\WebServerImgToGif.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\WebServerImgToGif.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\WebServerImgToGif.csproj",
+        "projectName": "WebServerImgToGif",
+        "projectPath": "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\WebServerImgToGif.csproj",
+        "packagesPath": "C:\\Users\\Zoki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zoki\\Desktop\\SysProg\\SISTEMPROG\\I Projekat - ISPRAVKA\\WebServerImgToGif\\WebServerImgToGif\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zoki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
